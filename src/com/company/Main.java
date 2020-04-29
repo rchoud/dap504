@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("This is connecting with Github");
+        System.out.println("This is connecting with Github, updated with this text");
         // write your code here#
     }
 }
